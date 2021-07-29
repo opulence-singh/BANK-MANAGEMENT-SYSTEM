@@ -79,7 +79,7 @@ and you account will be removed sucessfully :)
 
 # View customer's list
 
-
+S.No.             
 
 
 # Exit
