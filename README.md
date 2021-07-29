@@ -55,13 +55,17 @@ after adding your account number, it will request you to choose the info you wan
 this is for depositing and withdrawing your money by doing the following:
 1. Enter the account no. of the customer whose info you want to change:
 
-then you can choose between the one you wanna do.
+then you can choose between the one you wanna do. 
 
 
 
 # Check the details of existing account
 
+for checking your existing account, you have to choose in between the following:
+1. account no
+2. name
 
+after adding the following attribute, your details will be displayed.
 
 # Removing existing account
 
