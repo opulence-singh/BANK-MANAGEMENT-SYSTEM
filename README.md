@@ -12,7 +12,10 @@ and various other tasks.
 
 # Description 
 
-First the user has to enter the password to get access to the main menu, it next will lead you to our customer account banking management sysatem where the user will get to choose between the following options:
+First the user has to enter the password to get access to the main menu, if the password entred is wrong it will ask you to enter the password again(using goto function)
+
+
+If the password is correct it will lead you to our customer account banking management sysatem where the user will get to choose between the following options:
 
 1. Create your account
 2. Update information of existing account
