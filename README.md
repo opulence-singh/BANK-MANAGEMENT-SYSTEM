@@ -52,6 +52,11 @@ after adding your account number, it will request you to choose the info you wan
 
 # For transactions
 
+this is for depositing and withdrawing your money by doing the following:
+1. Enter the account no. of the customer whose info you want to change:
+
+then you can choose between the one you wanna do.
+
 
 
 # Check the details of existing account
