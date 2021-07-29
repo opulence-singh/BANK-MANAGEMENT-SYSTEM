@@ -543,7 +543,7 @@ int main()
     }while (pass[i]!=13);
     pass[10]='\0';*/
     if (strcmp(pass,password)==0)
-        {printf("\n\nPassword MatQch!\nLOADING");
+        {printf("\n\nPassword Match!\nLOADING");
         for(i=0;i<=6;i++)
         {
             fordelay(100000000);
