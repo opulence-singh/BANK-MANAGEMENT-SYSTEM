@@ -69,9 +69,16 @@ after adding the following attribute, your details will be displayed.
 
 # Removing existing account
 
+for removing your account all you have to do is:
+1. Enter the account no. of the customer whose info you want to remove
+
+and you account will be removed sucessfully :)
+
 
 
 # View customer's list
+
+
 
 
 # Exit
