@@ -39,7 +39,6 @@ Amount to deposit:$
 Type of account:
 
 
-
 # Update information of existing account
 
 
