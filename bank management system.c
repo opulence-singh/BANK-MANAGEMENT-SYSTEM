@@ -528,20 +528,20 @@ void menu(void)
 }
 int main()
 {
-    char pass[20],password[20]="Canada";
+    char pass[20],password[20]="PasswordABGGJ";
     int i=0;
     printf("\n\n\t\tEnter the password to login:");
     scanf("%s",pass);
-    /*do
+    do
     {
-    //if (pass[i]!=13&&pass[i]!=8)
+    if (pass[i]!=13&&pass[i]!=8)
         {
             printf("*");
             pass[i]=getch();
             i++;
         }
     }while (pass[i]!=13);
-    pass[10]='\0';*/
+    pass[10]='\0';
     if (strcmp(pass,password)==0)
         {printf("\n\nPassword Match!\nLOADING");
         for(i=0;i<=6;i++)
