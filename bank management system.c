@@ -532,16 +532,6 @@ int main()
     int i=0;
     printf("\n\n\t\tEnter the password to login:");
     scanf("%s",pass);
-//     do
-//     {
-//     if (pass[i]!=13&&pass[i]!=8)
-//         {
-//             printf("*");
-//             pass[i]=getch();
-//             i++;
-//         }
-//     }while (pass[i]!=13);
-//     pass[10]='\0';
     if (strcmp(pass,password)==0)
         {printf("\n\nPassword Match!\nLOADING");
         for(i=0;i<=6;i++)
