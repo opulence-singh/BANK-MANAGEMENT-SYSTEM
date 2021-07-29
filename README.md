@@ -24,3 +24,30 @@ First the user has to add the password to get access to the main menu, it next w
 
 
 After the selection it will lead you to the respective window.
+
+
+# Create your account
+
+
+
+
+# Update information of existing account
+
+
+
+# For transactions
+
+
+
+# Check the details of existing account
+
+
+
+# Removing existing account
+
+
+
+# View customer's list
+
+
+# Exit
