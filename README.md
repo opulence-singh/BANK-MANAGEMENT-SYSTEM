@@ -28,7 +28,7 @@ After the selection it will lead you to the respective window.
 
 # Create your account
 
-1. Moving to this option it will ask you to add the following:
+Moving to this option it will ask you to add the following:
 2. Name:
 3. Date of birth(mm/dd/yyyy):
 4. Age:
