@@ -1,4 +1,4 @@
-# C-PROJECT
+# BANK-MANAGEMENT-SYSTEM
 
 A Bank Management System that can perform basic banking tasks like 
 creating an account, 
