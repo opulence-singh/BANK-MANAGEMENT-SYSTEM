@@ -12,7 +12,7 @@ and various other tasks.
 
 # Description 
 
-First the user has to enter the password to get access to the main menu, if the password entred is wrong it will ask you to enter the password again(using goto function)
+First you have to enter the password to get access to the main menu, if the password entred is wrong it will ask you to enter the password again(using goto function)
 
 
 If the password is correct it will lead you to our customer account banking management sysatem where the user will get to choose between the following options:
@@ -44,10 +44,11 @@ Moving to this option it will ask you to add the following:
 
 # Update information of existing account
 
-this one will guide you to the following:
+This one will guide you to the following:
+
 1. Enter the account no. of the customer whose info you want to change:
 
-after adding your account number, it will request you to choose the info you wanna change. changes can only happen to address and phone number. proceeding further you will be able to change your details as per your preference
+After adding your account number, it will request you to choose the info you wanna change. Changes can only happen to address and phone number. proceeding further you will be able to change your details as per your preference
 
 
 # For transactions
