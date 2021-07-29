@@ -41,6 +41,10 @@ Moving to this option it will ask you to add the following:
 
 # Update information of existing account
 
+this one will guide you to the following:
+1. Enter the acoount no. of the customer whose info you want to change:
+
+after adding your account number, it will request you to choose the info you wanna change. changes can only happen to address and phone number
 
 
 # For transactions
