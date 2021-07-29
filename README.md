@@ -79,7 +79,14 @@ and you account will be removed sucessfully :)
 
 # View customer's list
 
-S.No.             
+ACC.NO.               NAME                        ADDRESS                     PHONE
+256337                Gagandeep Singh             66/26,Ashok Nagar           9999613113
+235412                Binal Singh                 33/23,Kirti Nagar           9987654356
+234123                Anshpreet Kaur              55/21,Gurguon               8745634562
+248883                Jaskiran Kaur               44/23,Tagore Garden         9987763421
+233567                Gurkiat Singh               34/32,Ramesh Nagar          9998772345
 
 
 # Exit
+
+Exits the program.
