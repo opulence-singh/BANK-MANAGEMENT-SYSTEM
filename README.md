@@ -29,14 +29,14 @@ After the selection it will lead you to the respective window.
 # Create your account
 
 Moving to this option it will ask you to add the following:
-2. Name:
-3. Date of birth(mm/dd/yyyy):
-4. Age:
-5. Address:
-6. Citizenship number:
-7. Phone number:
-8. Amount to deposit:$
-9. Type of account:
+1. Name:
+2. Date of birth(mm/dd/yyyy):
+3. Age:
+4. Address:
+5. Citizenship number:
+6. Phone number:
+7. Amount to deposit:$
+8. Type of account:
 
 
 # Update information of existing account
