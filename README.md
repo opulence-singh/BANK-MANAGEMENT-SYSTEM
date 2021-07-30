@@ -100,7 +100,6 @@ Exits the program.
 
 # FILE HANDLING
 File handling is used to contain all the words that would be chosen at random using the help of time and random functions. Each time the program is executed there is a new random word generated using the file.
-A file named as Hangman.txt is opened in read mode to fetch the exact word which is then turned into an array of DASHES, which is desplayed to the user.
 
 # SYSTEM REQUIREMENTS
 1. RAM 512MB
