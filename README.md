@@ -94,8 +94,8 @@ Exits the program.
 # CONCEPTS
 
 1. File Handling 
-2. Structure
-3. Conditiona And Loops
+2. Structures
+3. Conditions And Loops
 4. windows.h library
 
 # FILE HANDLING
