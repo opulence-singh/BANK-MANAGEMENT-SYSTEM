@@ -106,3 +106,7 @@ File handling is used to contain all the words that would be chosen at random us
 2. Pentium VI Processor
 3. HDD Capacity 2GB
 
+# Result
+The banking management system is a  really effective and efficient way to access the banking accounts to its  customers and helps the admin to manage the accounts efficiently.
+
+
