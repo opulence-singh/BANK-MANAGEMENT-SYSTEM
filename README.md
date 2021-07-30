@@ -53,27 +53,27 @@ After adding your account number, it will request you to choose the info you wan
 
 # For transactions
 
-this is for depositing and withdrawing your money by doing the following:
+This is for depositing and withdrawing your money by doing the following:
 1. Enter the account no. of the customer whose info you want to change:
 
-then you can choose between the one you wanna do. 
+Then you can choose between the one you wanna do. 
 
 
 
 # Check the details of the existing account
 
-for checking your existing account, you have to choose in between the following:
-1. account no
-2. name
+For checking your existing account, you have to choose in between the following:
+1. Account no
+2. Name
 
-after adding the following attribute, your details will be displayed.
+After adding the following attribute, your details will be displayed.
 
 # Removing an existing account
 
-for removing your account all you have to do is:
+For removing your account all you have to do is:
 1. Enter the account no. of the customer whose info you want to remove
 
-and your account will be removed successfully :)
+And your account will be removed successfully :)
 
 
 
