@@ -94,5 +94,12 @@ Exits the program.
 # CONCEPTS
 
 1. File Handling 
+2. Structure
+3. Conditiona And Loops
+4. 
 
+# SYSTEM REQUIREMENTS
+1. RAM 512MB
+2. Pentium VI Processor
+3. HDD Capacity 2GB
 
