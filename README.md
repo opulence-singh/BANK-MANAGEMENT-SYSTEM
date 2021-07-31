@@ -101,6 +101,9 @@ Exits the program.
 # FILE HANDLING
 File handling is used to contain all the words that would be chosen at random using the help of time and random functions. Each time the program is executed there is a new random word generated using the file.
 
+# STRUCT
+A struct in the C programming language is a composite data type declaration that defines a physically grouped list of variables under one name in a block of memory, allowing the different variables to be accessed via a single pointer or by the struct declared name which returns the same address.
+
 # SYSTEM REQUIREMENTS
 1. RAM 512MB
 2. Pentium VI Processor
